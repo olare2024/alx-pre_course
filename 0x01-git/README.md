@@ -1,2 +1,2 @@
 #My first git command
-## Iedited this file directly from github
+## I edited this file directly from github
